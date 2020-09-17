@@ -195,6 +195,8 @@ This code requires that you include opencv jar in your class path.
 
 This code makes use of code taken from:
 
+https://docs.opencv.org/master/de/da9/tutorial_template_matching.html
+
 https://riptutorial.com/opencv/example/22915/template-matching-with-java
 
 https://github.com/openpnp/openpnp/blob/develop/src/main/java/org/openpnp/vision/pipeline/stages/MatchPartTemplate.java#L283
